@@ -1,0 +1,33 @@
+div.main {
+    color: gray;
+    font-size: 10px;
+  }
+body{
+    /* 背景色指定 */
+  background-color:#e6e69458;
+  color:#161414;
+  }
+div.center {
+  text-align:center;
+  color: orange;
+}
+
+.box {
+  padding: 0.5em 1em;
+  margin: 2em 0;
+  border: double 5px #ccb73c;
+}
+.box h1 {
+  margin: 0; 
+  padding: 0;
+  text-align:center;
+  color: orange;
+}
+.sub {
+  font-size: 12px;
+}
+.small-icon {
+  font-size: 15px;
+  margin-bottom: 10px;
+  padding-bottom: 3px;
+}

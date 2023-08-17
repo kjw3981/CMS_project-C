@@ -1,0 +1,90 @@
+body, h1, h2, p, input, select, button {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    }
+    p {
+        padding-left: 50px;
+    }
+  body {
+    background-color: #f0f0f0;
+  }
+  
+  p2{
+    color: red;
+  }
+  /* Form container styles */
+  form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Form heading styles */
+  h1, h2 {
+    text-align: center;
+  }
+  
+  /* Form field styles */
+  input, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .pref_select{
+    width: 15%;
+    margin: 10px;
+  }
+
+  .pref_input{
+    width: 70%;
+    margin: 10px;
+    margin-left: 45px;
+  }
+
+  .name_input {
+    width: 40%;
+    margin: 10px;
+  }
+
+  .blog_input {
+    width: 40%;
+    margin: 10px;
+    margin-left: 50px;
+  }
+
+  select {
+    height: 38px;
+  }
+  
+  /* Error message styles */
+  h5 {
+    color: red;
+    margin-top: 5px;
+    font-size: 14px;
+  }
+  
+  /* Button styles */
+  button {
+    display: block;
+    width: 80%;
+    padding: 10px;
+    margin-left: 50px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+

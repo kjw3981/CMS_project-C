@@ -1,0 +1,65 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, a {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Body background color */
+body {
+  background-color: #f0f0f0;
+}
+
+/* Main container styles */
+.box21 {
+  background-color: #007BFF;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.box21 a {
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+}
+
+.box21 a:hover {
+  color: #f0f0f0;
+}
+
+/* Header styles */
+h2 {
+  margin-bottom: 10px;
+}
+
+/* Submenu styles */
+.sub {
+  background-color: #fff;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.sub a {
+  display: block;
+  color: #007BFF;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+.sub a:hover {
+  color: #0056b3;
+}
+
+/* H3 styles */
+h3 {
+  color: #007BFF;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+  /* Remove underline from h3 element */
+  text-decoration: none;
+}

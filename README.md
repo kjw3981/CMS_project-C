@@ -2,7 +2,7 @@
 
 # 作業環境
 
-Javascript
+Javascript\n
 C-cgi
 IIS
 MySQL
